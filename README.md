@@ -1,15 +1,4 @@
-# fwb07takkellapati assignment-10
-deploying server into heroku
-hosted at https://db07takkellapati.herokuapp.com/
+# RuchithaMerugu assignment-12
 
-Alphabets - E, F
-
-Class Selected:
-
-1.Earphones - manufacturedYear (number) , brandName(string), isWireless( boolean)
-
-2.Fabric - material(string), color(string), validity(number)
-
-
-
-"# ruchi_git" 
+Heroku server
+hosted at https://ruchib.herokuapp.com/
