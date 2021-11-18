@@ -4,10 +4,46 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: pink;
 }
 .costumeAttr { 
-  background-color: rgb(61, 155, 124); 
+  background-color:blueviolet; 
   width: 120px; 
 
 } 
+.nameone {
+  width: 170px;
+  margin: 8px;
+  text-align: center;
+  padding: 7px;
+  border-radius: 5px;
+  font-weight:bold;
+
+}
+
+#titlestyle{
+  color: pink;
+  font-weight: 500;
+  font-family:'Times New Roman', Times, serif;
+  text-decoration:solid;
+}
+
+.variety{
+  margin-right: 4px;
+  margin-bottom: 0;
+  padding: 7px;
+  justify-content:center;
+  font-weight: bold;
+  border-bottom: 3px solid rgb(218, 30, 30);
+  border-left: 3px solid  rgb(126, 204, 24);
+  background-color: rgb(226, 236, 216);
+  border-radius: 3px;
+}
+.stylesheetnew{
+    border-top: 3px solid rgba(17, 184, 161, 0.527);
+    width: 60%;
+}
+.variety:hover{
+  background-color: rgb(231, 28, 197);
+  color: rgb(140, 191, 224);
+}
